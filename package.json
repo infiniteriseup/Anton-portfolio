@@ -1,5 +1,5 @@
 {
-  "name": "stella-portfolio",
+  "name": "Anton-portfolio",
   "version": "1.0.1",
   "private": true,
   "scripts": {
@@ -48,12 +48,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/CodeByStella/Stella-Portfolio"
+    "url": "https://github.com/infiniteriseup/Anton-portfolio"
   },
-  "homepage": "https://github.com/CodeByStella/Stella-Portfolio#readme",
+  "homepage": "https://github.com/infiniteriseup/Anton-portfolio#readme",
   "bugs": {
-    "url": "https://github.com/CodeByStella/Stella-Portfolio/issues",
-    "email": "okovtun747@gmail.com"
+    "url": "https://github.com/infiniteriseup/Anton-portfolio/issues",
+    "email": "infiniteriseup@gmail.com"
   },
   "dependencies": {
     "@heroicons/react": "^2.1.1",

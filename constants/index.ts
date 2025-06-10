@@ -1,16 +1,9 @@
 import {
   FaTelegram,
-  FaYoutube,
   FaDiscord,
-  FaSkype,
-  FaGoogle
 } from "react-icons/fa";
 import {
-  RxDiscordLogo,
   RxGithubLogo,
-  RxInstagramLogo,
-  RxTwitterLogo,
-  RxLinkedinLogo,
 } from "react-icons/rx";
 
 export const SKILL_DATA = [
@@ -250,13 +243,6 @@ export const PROJECTS = [
     link: "https://fullstackdev7dennis.vercel.app",
   },
   {
-    title: "Casino Betting Platform",
-    description:
-      'Developed a secure and scalable casino betting site with full-stack development, seamless API integration, and OAuth for secure authentication. Built for speed, reliability, and an engaging user experience.',
-    image: "/projects/2.png",
-    link: "https://example.com",
-  },
-  {
     title: "Expertise & Development",
     description:
       'Experienced in building websites and business applications with a focus on scalability, performance, and security. Skilled in full-stack development, writing clean, efficient code for both frontend and backend. Actively involved in software design, testing, and debugging to ensure seamless functionality and reliability.',
@@ -283,17 +269,12 @@ export const SOCIALS = [
   {
     name: "Telegram",
     icon: FaTelegram,
-    link: "https://t.me/StellaRay777",
-  },
-  {
-    name: "Skype",
-    icon: FaSkype,
-    link: "https://join.skype.com/invite/x6C2Nf1SDyrp",
+    link: "https://t.me/@sleeping.dev",
   },
   {
     name: "Discord",
     icon: RxGithubLogo,
-    link: "https://github.com/CodeByStella",
+    link: "https://github.com/infiniteriseup",
   },
 ] as const;
 
@@ -304,65 +285,20 @@ export const FOOTER_DATA = [
       {
         name: "Telegram",
         icon: FaTelegram,
-        link: "https://t.me/+Fa5kTluTaD9jNjk0",
+        link: "https://t.me/@sleeping.dev",
       },
       {
         name: "Discord",
         icon: FaDiscord,
-        link: "https://discord.gg/huYgwCPeeP"
+        link: "https://discord.gg/infinite_riseup"
       },
       {
         name: "GitHub",
         icon: RxGithubLogo,
-        link: "https://github.com/orgs/community/discussions/155079",
+        link: "https://github.com/infiniteriseup",
       },
     ],
   },
-  // {
-  //   title: "Social Media",
-  //   data: [
-  //     {
-  //       name: "Telegram",
-  //       icon: FaTelegram,
-  //       link: "https://t.me/superdev",
-  //     },
-  //     {
-  //       name: "Discord",
-  //       icon: FaDiscord,
-  //       link: "https://discord.gg/gnfMx4uY",
-  //     },
-  //     {
-  //       name: "Skype",
-  //       icon: FaSkype,
-  //       link: "https://join.skype.com/invite/pTDpQyK9lx5a",
-  //     },
-  //     // {
-  //     //   name: "Linkedin",
-  //     //   icon: RxLinkedinLogo,
-  //     //   link: "https://linkedin.com",
-  //     // },
-  //   ],
-  // },
-  // {
-  //   title: "About",
-  //   data: [
-  //     {
-  //       name: "Become Sponsor",
-  //       icon: null,
-  //       link: "https://youtube.com",
-  //     },
-  //     {
-  //       name: "Learning about me",
-  //       icon: null,
-  //       link: "https://example.com",
-  //     },
-  //     {
-  //       name: "Contact Me",
-  //       icon: null,
-  //       link: "mailto:hiwebdev0026@gmail.com",
-  //     },
-  //   ],
-  // },
 ] as const;
 
 export const NAV_LINKS = [
@@ -381,5 +317,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/CodeByStella/Stella-Portfolio",
+  sourceCode: "https://github.com/infiniteriseup/Anton-portfolio",
 };
